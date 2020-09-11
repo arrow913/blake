@@ -1,0 +1,23 @@
+* {
+    font-size: 25px;
+}
+
+body {
+     background-color: blue;
+     background-position: fixed;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    background-color: lightblue;
+}
+
+h1 {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.jumbotron {
+    padding: 30px;
+    background-color: wheat;
+}
